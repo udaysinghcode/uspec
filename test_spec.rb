@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative 'lib/spec'
+require_relative 'lib/uspec'
 
 class TestDesribe < Test::Unit::TestCase
   def test_that_it_can_pass
